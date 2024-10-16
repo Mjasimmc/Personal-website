@@ -2194,7 +2194,9 @@ html{
   .am\/12{
     width: 41.666667%;
   }
-
+  .thirtyPercentWidth {
+    width: 30%;
+  }
   .bm{
     width: 1.5rem;
   }
